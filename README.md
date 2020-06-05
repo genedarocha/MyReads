@@ -11,7 +11,7 @@ clone the Project - git clone https://github.com/genedarocha/MyRead
 
 install the dependencies - npm install
 
-start the project with npm - npm start serve
+start the project with npm - npm start server
 
 listen the server on http://localhost:3000
 
